@@ -10,7 +10,7 @@
  >If You don't found addon link, for Your browser, you can find it on official site:\
  **https://www.tampermonkey.net**
  2. Install plugin:
- **https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js**
+ **https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/script.main.js**
 
 Link to Tampermonkey site:\
 **https://www.tampermonkey.net**
