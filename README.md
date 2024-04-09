@@ -9,7 +9,7 @@
  * Safari(alternative): https://apps.apple.com/us/app/userscripts/id1463298887
  >If You don't found addon link, for Your browser, you can find it on official site:\
  **https://www.tampermonkey.net**
- 2. Install plugin:
+ 2. Addon(usually top right corner or settings > addons) > Control Panel > Utilities > Import from URL > Paste link
  **https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/script.main.js**
 
 Link to Tampermonkey site:\
