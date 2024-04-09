@@ -5,10 +5,10 @@
 // @author         xDVitxD
 // @match          https://music.yandex.ru/*
 // @icon           https://music.yandex.ru/favicon32.png
-// @homepageURL    https://github.com/ilyhalight/voice-over-translation/issues
-// @updateURL      https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
-// @downloadURL    https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
-// @supportURL     https://github.com/ilyhalight/voice-over-translation/issues
+// @homepageURL    https://github.com/xDVitxD/Yandex-Music-Hide-Grip/issues
+// @updateURL      https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js
+// @downloadURL    https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js
+// @supportURL     https://github.com/xDVitxD/Yandex-Music-Hide-Grip/issues
 // ==/UserScript==
 
 (function() {
