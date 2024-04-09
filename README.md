@@ -1,5 +1,5 @@
 # Yandex Music Hide Grip
-## Plugin for Tampermonkey, that hides progress bar grip on Yandex Music, by changing style display to 'none'\
+## Plugin for Tampermonkey, that hides progress bar grip on Yandex Music, by changing style display to 'none'
 > #Grip shows only if You switch standart theme in settings
  **Installation process:**
   1. Install addon Tampermonkey, by one of next links, according to your browser:
