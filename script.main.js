@@ -5,9 +5,10 @@
 // @author         xDVitxD
 // @match          https://music.yandex.ru/*
 // @icon           https://music.yandex.ru/favicon32.png
+// @namespace      script
 // @homepageURL    https://github.com/xDVitxD/Yandex-Music-Hide-Grip/issues
-// @updateURL      https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js
-// @downloadURL    https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js
+// @updateURL      https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/script.main.js
+// @downloadURL    https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/script.main.js
 // @supportURL     https://github.com/xDVitxD/Yandex-Music-Hide-Grip/issues
 // ==/UserScript==
 
