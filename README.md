@@ -7,7 +7,7 @@
  * Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd
  * Opera: https://addons.opera.com/ru/extensions/details/tampermonkey-beta/
  * Safari(alternative): https://apps.apple.com/us/app/userscripts/id1463298887
- >If You don't found addon link, for Your browser on official site:\
+ >If You don't found addon link, for Your browser, you can find it on official site:\
  **https://www.tampermonkey.net**
  2. Install plugin:
  **https://raw.githubusercontent.com/xDVitxD/Yandex-Music-Hide-Grip/main/main.js**
